@@ -1,20 +1,17 @@
 # Hi, I'm Tongyi 👋
 
-AI、HR Tech、Workflow。
+AI × People × Workflow
 
-我关注招聘、绩效、组织效率与产品体验，喜欢做有用、也有表达力的产品。
+Building useful systems for hiring, performance, collaboration, and everyday work.
 
-## Featured Project
+<p align="center">
+  <img src="./assets/what-im-doing.png" alt="What Tongyi is working on" width="100%" />
+</p>
 
-### [Time is Money](https://github.com/TongyiDai/timeismoney)
+## Selected work
 
-一个轻松有趣的“窝囊费 / 摸鱼收益”计算器，支持中英双语展示。
+- [Geometry Board](https://github.com/TongyiDai/geometry-board-skill) — restrained visual systems for Feishu docs
+- [Career Ops](https://github.com/TongyiDai/career-ops-zh) — an AI career operating system for the Chinese job market
+- [Time is Money](https://github.com/TongyiDai/timeismoney) — a tiny calculator for the value of working time
 
-在线体验：<https://timeismoney888.lovable.app/app.html>
-
-## Interests
-
-- AI-native workflow
-- HR Tech
-- Product demos
-- Better user experience
+> Make complex work easier to see, decide, and ship.
