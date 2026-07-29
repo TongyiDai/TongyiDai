@@ -9,9 +9,18 @@
 
 ## 探索项目｜Selected work
 
+**Agent Skills — 给 AI agent 用的技能**
+
+- [巨人之肩｜Giants' Shoulders](https://github.com/TongyiDai/giants-shoulders) — 开工前先查现成方案，四桶归类给出裁决｜Scan for prior art before you build, cluster findings, deliver one clear verdict
+- [中文老师｜Chinese Teacher](https://github.com/TongyiDai/chinese-teacher) — 让中文工作文档有判断力、有人味、能推动决策｜Chinese work-doc writing with judgment, warmth, and decisions
+- [Geometry Board｜几何画板](https://github.com/TongyiDai/geometry-board-skill) — 把复杂想法画成可复用的视觉板｜A restrained geometric canvas for Feishu docs
+- [吃什么｜What to Eat](https://github.com/TongyiDai/what-to-eat-skill) — 结合口味、忌口和饭点，帮你决定这顿吃什么｜Decides your next meal from taste, limits, and timing
+- [价值账本｜Agent Value Ledger](https://github.com/TongyiDai/agent-value-ledger) — 用本地表格记录并审计 agent 创造的价值｜A local, auditable ledger for agent-created value
+
+**Apps & Tools — 应用与工具**
+
+- [Career Ops｜职业操作系统](https://github.com/TongyiDai/career-ops-zh) — 面向中文求职市场的 AI 职业操作系统｜An AI career operating system for the Chinese job market
 - [窝囊费计算器｜Time is Money](https://github.com/TongyiDai/timeismoney) — 把工作时间变成实时收益｜A playful calculator for the value of working time
-- [Geometry Board](https://github.com/TongyiDai/geometry-board-skill) — 把复杂想法画成可复用的视觉板｜A restrained visual canvas for Feishu docs
-- [Career Ops](https://github.com/TongyiDai/career-ops-zh) — AI 中文职业操作系统｜An AI career operating system for the Chinese job market
 
 > 把时间还给思考，把流程交给工具，把专业留给业务，把价值带给组织。  
 > Give time back to thinking. Give workflows to tools. Keep expertise in the business. Bring value to the organization.
