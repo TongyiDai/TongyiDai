@@ -9,17 +9,26 @@
 
 ## 探索项目｜Selected work
 
-**Agent Skills — 给 AI agent 用的技能**
+### 想清楚，说明白｜Think it through, say it clearly
 
-- [巨人之肩｜Giants' Shoulders](https://github.com/TongyiDai/giants-shoulders) — 开工前先查现成方案，四桶归类给出裁决｜Scan for prior art before you build, cluster findings, deliver one clear verdict
-- [中文老师｜Chinese Teacher](https://github.com/TongyiDai/chinese-teacher) — 让中文工作文档有判断力、有人味、能推动决策｜Chinese work-doc writing with judgment, warmth, and decisions
-- [蓝色波点｜Geometry Board](https://github.com/TongyiDai/geometry-board-skill) — 把复杂内容提炼成一张一图一意的几何画板｜A restrained geometric canvas for Feishu docs
-- [时间就是金钱｜AI's time is money](https://github.com/TongyiDai/agent-value-ledger) — 把 Agent 省下的时间量化并折算成钱，记进可审计的本地账本｜Quantify the time your agent saves, convert it to money, log it in an auditable ledger
+> 给 AI agent 用的技能：把想法研究透、画清楚、写明白。
 
-**Apps & Tools — 应用与工具**
+- **[巨人之肩｜Giants' Shoulders](https://github.com/TongyiDai/giants-shoulders)** — 开工前先上网查有没有人做过，四桶归类，给一个明确裁决。*“知识不是从零生长的，它长在前人之上。”*
+- **[蓝色波点｜Geometry Board](https://github.com/TongyiDai/geometry-board-skill)** — 把复杂内容压成一张“一图一意”的几何画板。动笔前先问一句：*“这张图要让读者一眼理解什么？”*
+- **[中文老师｜Chinese Teacher](https://github.com/TongyiDai/chinese-teacher)** — 写中文工作文档，不是帮你写得更正式，而是*“让文档有判断力、有人味、能推动决策”*。
 
-- [Career Ops｜职业操作系统](https://github.com/TongyiDai/career-ops-zh) — 面向中文求职市场的 AI 职业操作系统｜An AI career operating system for the Chinese job market
-- [窝囊费计算器｜Time is Money](https://github.com/TongyiDai/timeismoney) — 把工作时间变成实时收益｜A playful calculator for the value of working time
+### 时间就是钱｜Time, made countable
+
+> 把看不见的时间，变成看得见的数字。
+
+- **[时间就是金钱｜AI's time is money](https://github.com/TongyiDai/agent-value-ledger)** — 把 Agent 省下的时间量化、折算成钱，记进一本可审计的账。记的不是“调用了几次 AI”，而是*“完成了一项什么工作，并留下了什么结果”*。
+- **[窝囊费计算器｜Time is Money](https://github.com/TongyiDai/timeismoney)** — 打工人的摸鱼量化终端。*“上班为了下班，摸鱼为了快乐。把看不见的时间，变成看得见的快乐数字。”*
+
+### 求职者的 AI｜Career
+
+> 公司用 AI 筛候选人，候选人也该有自己的 AI。
+
+- **[职业操作系统｜Career Ops](https://github.com/TongyiDai/career-ops-zh)** — 中文求职者自己的 AI 作战室：*“看清机会、讲清自己、少走弯路、少投垃圾岗位。”*
 
 > 把时间还给思考，把流程交给工具，把专业留给业务，把价值带给组织。  
 > Give time back to thinking. Give workflows to tools. Keep expertise in the business. Bring value to the organization.
