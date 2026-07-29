@@ -14,7 +14,6 @@
 - [巨人之肩｜Giants' Shoulders](https://github.com/TongyiDai/giants-shoulders) — 开工前先查现成方案，四桶归类给出裁决｜Scan for prior art before you build, cluster findings, deliver one clear verdict
 - [中文老师｜Chinese Teacher](https://github.com/TongyiDai/chinese-teacher) — 让中文工作文档有判断力、有人味、能推动决策｜Chinese work-doc writing with judgment, warmth, and decisions
 - [Geometry Board｜几何画板](https://github.com/TongyiDai/geometry-board-skill) — 把复杂想法画成可复用的视觉板｜A restrained geometric canvas for Feishu docs
-- [吃什么｜What to Eat](https://github.com/TongyiDai/what-to-eat-skill) — 结合口味、忌口和饭点，帮你决定这顿吃什么｜Decides your next meal from taste, limits, and timing
 - [价值账本｜Agent Value Ledger](https://github.com/TongyiDai/agent-value-ledger) — 用本地表格记录并审计 agent 创造的价值｜A local, auditable ledger for agent-created value
 
 **Apps & Tools — 应用与工具**
