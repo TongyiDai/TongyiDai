@@ -27,7 +27,7 @@
 
 庄子两千年前就把这事说透了：柴烧得完，火传得下去。AI agent 也一样——额度会用完，上下文会被压缩，客户端说换就换。这个协议让一个 agent 停下时，把真正的工作现场交给下一个：做到哪了、哪些事实可信、产物在哪、谁接棒、什么算完成。传的不是一段聊天摘要，是能验收的整个活儿。Codex 交给 TRAE，TRAE 交给 Claude，谁都不用从头再来。
 
-**[蓝色波点｜Geometry Board](https://github.com/TongyiDai/geometry-board-skill)**
+**[蓝色波点｜Blue Dot](https://github.com/TongyiDai/geometry-board-skill)**
 
 > 这张图要让读者一眼理解什么？
 
