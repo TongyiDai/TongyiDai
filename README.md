@@ -11,6 +11,8 @@
 
 **[飞书 OKR 草稿｜Feishu OKR Drafter](https://github.com/TongyiDai/feishu-okr-drafter)**
 
+> 好的 OKR，把要改变的结果说清楚，也把不做什么留在门外。
+
 写出经得起严格评审的结果承诺：读取历史完成情况、上下级承接和协作关系，生成、写入并核验飞书 OKR。
 
 **[职业操作系统｜Career Ops](https://github.com/TongyiDai/career-ops-zh)**
