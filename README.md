@@ -21,7 +21,7 @@
 
 ## 时间就是金钱｜Time is Money
 
-**[AI 的时间就是金钱｜AI's time is money](https://github.com/TongyiDai/agent-value-ledger)**
+**[AI 的时间也是钱｜AI's time is money](https://github.com/TongyiDai/agent-value-ledger)**
 
 > 完成了一项什么工作，并留下了什么结果。
 
