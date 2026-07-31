@@ -53,7 +53,7 @@
 
 计算 AI 替你省下的时间值多少钱：让 agent 自己记账，每笔价值都有交付物和证据。
 
-**[窝囊费计算器｜Time is Money](https://github.com/TongyiDai/timeismoney)**
+**[窝囊费计算器｜Time is Money]([https://timeismoney888.lovable.app/app.html])**
 
 计算人自己的时间值多少钱：按工资实时换算，把工作的每一秒变成看得见的收益和窝囊费。点击还能爆金币
 
