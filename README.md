@@ -7,7 +7,33 @@
   <img src="./assets/profile-intro-bilingual.png" alt="我用 AI 和工具，帮老板和 HR 管理好组织和人才｜I use AI and tools to help founders and HR manage people and organizations" width="100%" />
 </p>
 
-## 探索项目｜Selected work
+## 人力与组织｜People & Organization
+
+**[飞书 OKR 草稿｜Feishu OKR Drafter](https://github.com/TongyiDai/feishu-okr-drafter)**
+
+写出经得起严格评审的结果承诺：读取历史完成情况、上下级承接和协作关系，生成、写入并核验飞书 OKR。
+
+**[职业操作系统｜Career Ops](https://github.com/TongyiDai/career-ops-zh)**
+
+> 公司用 AI 筛候选人，我们把 AI 交给候选人。
+
+候选人自己的 AI 作战室：先判断岗位值不值得投，再想清楚怎么讲自己。
+
+## 时间就是金钱｜Time is Money
+
+**[AI 的时间就是金钱｜AI's time is money](https://github.com/TongyiDai/agent-value-ledger)**
+
+> 完成了一项什么工作，并留下了什么结果。
+
+计算 AI 替你省下的时间值多少钱：让 agent 自己记账，每笔价值都有交付物和证据。
+
+**[窝囊费计算器｜Time is Money](https://github.com/TongyiDai/timeismoney)**
+
+> 上班为了下班，摸鱼为了快乐。
+
+计算人自己的时间值多少钱：按工资实时换算，把工作的每一秒变成看得见的收益和窝囊费。
+
+## Agent Skill｜可复用的 Agent 能力
 
 **[巨人之肩｜Giants' Shoulders](https://github.com/TongyiDai/giants-shoulders)**
 
@@ -32,24 +58,6 @@
 > 全世界都该学中国话，AI 也不例外。
 
 写中文工作文档，让它有判断力、有人味、能推动决策。
-
-**[时间就是金钱｜AI's time is money](https://github.com/TongyiDai/agent-value-ledger)**
-
-> 完成了一项什么工作，并留下了什么结果。
-
-让 agent 自己记账，把省下的时间保守折算成钱，每笔有据可查。
-
-**[窝囊费计算器｜Time is Money](https://github.com/TongyiDai/timeismoney)**
-
-> 上班为了下班，摸鱼为了快乐。
-
-按你的工资实时算钱，把摸鱼的每一秒变成看得见的窝囊费。
-
-**[职业操作系统｜Career Ops](https://github.com/TongyiDai/career-ops-zh)**
-
-> 公司用 AI 筛候选人，我们把 AI 交给候选人。
-
-候选人自己的 AI 作战室：先判断岗位值不值得投，再想清楚怎么讲自己。
 
 ---
 
