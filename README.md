@@ -41,6 +41,12 @@
 
 写出经得起严格评审的结果承诺：读取历史完成情况、上下级承接和协作关系，生成、写入并核验飞书 OKR。
 
+**[麦肯锡人力大脑｜MBB People Brain](https://github.com/TongyiDai/mckinsey-people-brain)**
+
+> 把分散的洞见，沉淀成组织的判断。
+
+从 MBB 官网整理人才、组织与 AI 转型洞见，构建可追溯、可持续更新的人力顾问数据库。
+
 **[职业操作系统｜Career Ops](https://github.com/TongyiDai/career-ops-zh)**
 
 > 公司用 AI 筛候选人，它把 AI 交给候选人。
