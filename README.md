@@ -45,19 +45,19 @@
 
 **[1:1 沟通助手｜1:1 Manager](https://github.com/TongyiDai/one-on-one-manager)**
 
-> 把一次谈话放回共同工作里。
+> 帮助管理者更好地组织一对一沟通。
 
 基于飞书日程、会议、共同消息、共享文档、任务和 OKR，帮助管理者准备 1:1、整理共识并跟进行动。
 
 **[绩效环评人推荐｜Performance Reviewer Recommendation](https://github.com/TongyiDai/performance-reviewer-recommendation)**
 
-> 把“谁见过这项工作”，变成可核验的环评候选。
+> 你的环评人，它来帮你推荐。
 
 从授权的飞书 / Lark 共同工作证据中推荐 360 环评人；支持豆包企业版、Codex 和 Claude Code。
 
 **[麦肯锡人力大脑｜MBB People Brain](https://github.com/TongyiDai/mckinsey-people-brain)**
 
-> 把分散的洞见，沉淀成组织的判断。
+> 可以持续迭代的顶尖咨询机构人才洞见知识库。
 
 从 MBB 官网整理人才、组织与 AI 转型洞见，构建可追溯、可持续更新的人力顾问数据库。
 
