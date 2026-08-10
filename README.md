@@ -9,9 +9,6 @@
 
 ## 精选项目｜Featured Projects
 
-<details open>
-  <summary><strong>打开项目卡片（6）</strong></summary>
-
 <p align="left">
   <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=2" width="48%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
   <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg?v=2" width="48%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
@@ -20,8 +17,6 @@
   <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=2" width="48%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
   <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=2" width="48%" alt="职业操作系统：岗位信息到求职决策" /></a>
 </p>
-
-</details>
 
 ## 全部项目｜All Projects
 
