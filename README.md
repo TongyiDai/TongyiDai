@@ -9,7 +9,7 @@
 
 ## 精选项目｜Featured Projects
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=2" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
   <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg?v=2" width="31%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
   <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=2" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a><br />
@@ -23,7 +23,7 @@
 <details>
   <summary><strong>展开全部项目（11）</strong></summary>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=2" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a>
   <a href="https://github.com/TongyiDai/xinjin-huochuan"><img src="./assets/profile-cards/agent-relay.svg?v=2" width="31%" alt="薪尽火传：工作现场到可靠交接" /></a>
   <a href="https://github.com/TongyiDai/geometry-board-skill"><img src="./assets/profile-cards/geometry-board.svg?v=2" width="31%" alt="蓝色波点：复杂内容到一图一意" /></a><br />
