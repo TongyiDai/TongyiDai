@@ -7,25 +7,21 @@
   <img src="./assets/profile-intro-bilingual.png" alt="我用 AI 和工具，帮老板和 HR 管理好组织和人才｜I use AI and tools to help founders and HR manage people and organizations" width="100%" />
 </p>
 
-## 现在在做什么｜Selected Work
+## 精选项目｜Featured Projects
 
-**[绩效环评人推荐｜Performance Reviewer Recommendation](https://github.com/TongyiDai/performance-reviewer-recommendation)** <kbd>Skill</kbd> <kbd>人力与组织</kbd>
+<details open>
+  <summary><strong>打开项目卡片（6）</strong></summary>
 
-> <sub>你的环评人，它来帮你推荐。</sub>
+<p align="left">
+  <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg" width="48%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
+  <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg" width="48%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
+  <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg" width="48%" alt="巨人之肩：先例扫描到一条裁决" /></a>
+  <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg" width="48%" alt="中文老师：材料到有判断力的中文" /></a>
+  <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg" width="48%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
+  <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg" width="48%" alt="职业操作系统：岗位信息到求职决策" /></a>
+</p>
 
-<sub>从授权的飞书 / Lark 共同工作证据中推荐 360 环评人；支持豆包企业版、Codex 和 Claude Code。</sub>
-
-**[飞书 OKR 草稿｜Feishu OKR Drafter](https://github.com/TongyiDai/feishu-okr-drafter)** <kbd>Skill</kbd> <kbd>人力与组织</kbd>
-
-> <sub>你的 OKR，它来帮你写。</sub>
-
-<sub>写出经得起严格评审的结果承诺：读取历史完成情况、上下级承接和协作关系，生成、写入并核验飞书 OKR。</sub>
-
-**[巨人之肩｜Giants' Shoulders](https://github.com/TongyiDai/giants-shoulders)** <kbd>Skill</kbd>
-
-> <sub>如果说我看得更远，那是因为我站在巨人的肩膀上。</sub>
-
-<sub>开工前先上网查有没有人做过，再决定复用、改造或从头造。</sub>
+</details>
 
 ## 全部项目｜All Projects
 
