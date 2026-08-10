@@ -33,43 +33,43 @@
 
 <sub>写中文工作文档，让它有判断力、有人味、能推动决策。</sub>
 
-**[飞书 OKR 草稿｜Feishu OKR Drafter](https://github.com/TongyiDai/feishu-okr-drafter)** <kbd>人力与组织</kbd>
+**[飞书 OKR 草稿｜Feishu OKR Drafter](https://github.com/TongyiDai/feishu-okr-drafter)** <kbd>Skill</kbd> <kbd>人力与组织</kbd>
 
 > <sub>你的 OKR，它来帮你写。</sub>
 
 <sub>写出经得起严格评审的结果承诺：读取历史完成情况、上下级承接和协作关系，生成、写入并核验飞书 OKR。</sub>
 
-**[1:1 沟通助手｜1:1 Manager](https://github.com/TongyiDai/one-on-one-manager)** <kbd>人力与组织</kbd>
+**[1:1 沟通助手｜1:1 Manager](https://github.com/TongyiDai/one-on-one-manager)** <kbd>Skill</kbd> <kbd>人力与组织</kbd>
 
 > <sub>帮助管理者更好地组织一对一沟通。</sub>
 
 <sub>基于飞书日程、会议、共同消息、共享文档、任务和 OKR，帮助管理者准备 1:1、整理共识并跟进行动。</sub>
 
-**[绩效环评人推荐｜Performance Reviewer Recommendation](https://github.com/TongyiDai/performance-reviewer-recommendation)** <kbd>人力与组织</kbd>
+**[绩效环评人推荐｜Performance Reviewer Recommendation](https://github.com/TongyiDai/performance-reviewer-recommendation)** <kbd>Skill</kbd> <kbd>人力与组织</kbd>
 
 > <sub>你的环评人，它来帮你推荐。</sub>
 
 <sub>从授权的飞书 / Lark 共同工作证据中推荐 360 环评人；支持豆包企业版、Codex 和 Claude Code。</sub>
 
-**[麦肯锡人力大脑｜MBB People Brain](https://github.com/TongyiDai/mckinsey-people-brain)** <kbd>人力与组织</kbd>
+**[麦肯锡人力大脑｜MBB People Brain](https://github.com/TongyiDai/mckinsey-people-brain)** <kbd>Skill</kbd> <kbd>人力与组织</kbd>
 
 > <sub>可以持续迭代的顶尖咨询机构人才洞见知识库。</sub>
 
 <sub>从 MBB 官网整理人才、组织与 AI 转型洞见，构建可追溯、可持续更新的人力顾问数据库。</sub>
 
-**[职业操作系统｜Career Ops](https://github.com/TongyiDai/career-ops-zh)** <kbd>人力与组织</kbd>
+**[职业操作系统｜Career Ops](https://github.com/TongyiDai/career-ops-zh)** <kbd>Skill</kbd> <kbd>人力与组织</kbd>
 
 > <sub>公司用 AI 筛候选人，它把 AI 交给候选人。</sub>
 
 <sub>候选人自己的 AI 作战室：先判断岗位值不值得投，再想清楚怎么讲自己。</sub>
 
-**[AI 的时间也是钱｜AI's time is money](https://github.com/TongyiDai/agent-value-ledger)** <kbd>时间就是金钱</kbd>
+**[AI 的时间也是钱｜AI's time is money](https://github.com/TongyiDai/agent-value-ledger)** <kbd>Skill</kbd> <kbd>时间就是金钱</kbd>
 
 > <sub>完成了一项什么工作，并留下了什么结果。</sub>
 
 <sub>计算 AI 替你省下的时间值多少钱：让 agent 自己记账，每笔价值都有交付物和证据。</sub>
 
-**[窝囊费计算器｜Time is Money](https://timeismoney888.lovable.app/app.html)** <kbd>时间就是金钱</kbd>
+**[窝囊费计算器｜Time is Money](https://timeismoney888.lovable.app/app.html)** <kbd>Web App</kbd> <kbd>时间就是金钱</kbd>
 
 > <sub>上班为了下班，摸鱼为了快乐。</sub>
 
