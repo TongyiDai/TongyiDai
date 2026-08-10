@@ -15,7 +15,7 @@
   <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=3" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a><br />
   <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg?v=3" width="31%" alt="中文老师：材料到有判断力的中文" /></a>
   <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=3" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
-  <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=3" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
+  <a href="https://timeismoney888.lovable.app/app.html"><img src="./assets/profile-cards/timeismoney.svg?v=3" width="31%" alt="窝囊费计算器：工资换算到时间收益" /></a>
 </p>
 
 ## 全部项目｜All Projects
