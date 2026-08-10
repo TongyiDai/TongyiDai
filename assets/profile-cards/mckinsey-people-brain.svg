@@ -2,7 +2,6 @@
   <title id="title">麦肯锡人力大脑</title>
   <desc id="desc">从公开资料构建可追溯的人力顾问知识库</desc>
   <rect x="1" y="1" width="598" height="188" rx="18" fill="#F6EBD8" stroke="#0B0A09" stroke-width="2"/>
-  <rect x="1" y="1" width="10" height="188" rx="5" fill="#2F6BFF"/>
   <text x="34" y="38" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="13" letter-spacing="1.5">SKILL / PEOPLE &amp; ORG</text>
   <text x="34" y="78" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="26" font-weight="700">麦肯锡人力大脑</text>
   <text x="34" y="101" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13">MBB People Brain</text>
