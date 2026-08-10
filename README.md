@@ -1,5 +1,7 @@
 # 戴同一｜Tongyi Dai 👋
 
+> “The output of a manager is the output of the organizational units under his or her supervision or influence.” — Andy Grove, *High Output Management* ([source](https://openlibrary.org/books/OL3161621M/High_Output_Management))
+
 > 我用 AI 和工具，帮老板和 HR 管理好组织和人才。  
 > I use AI and tools to help founders and HR manage people and organizations.
 
@@ -40,6 +42,12 @@
 > 你的 OKR，它来帮你写。
 
 写出经得起严格评审的结果承诺：读取历史完成情况、上下级承接和协作关系，生成、写入并核验飞书 OKR。
+
+**[1:1 沟通助手｜1:1 Manager](https://github.com/TongyiDai/one-on-one-manager)**
+
+> 把一次谈话放回共同工作里。
+
+基于飞书日程、会议、共同消息、共享文档、任务和 OKR，帮助管理者准备 1:1、整理共识并跟进行动；默认只读，强调证据边界和最小权限。
 
 **[麦肯锡人力大脑｜MBB People Brain](https://github.com/TongyiDai/mckinsey-people-brain)**
 
