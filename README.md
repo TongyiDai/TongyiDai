@@ -53,7 +53,7 @@
 
 > 把“谁见过这项工作”，变成可核验的环评候选。
 
-从授权的飞书 / Lark 共同工作证据中推荐 360 环评人；支持豆包企业版、Codex 和 Claude Code，强调用户身份、证据边界、脱敏和人工确认。
+从授权的飞书 / Lark 共同工作证据中推荐 360 环评人；支持豆包企业版、Codex 和 Claude Code。
 
 **[麦肯锡人力大脑｜MBB People Brain](https://github.com/TongyiDai/mckinsey-people-brain)**
 
