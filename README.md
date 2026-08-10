@@ -15,6 +15,12 @@
 
 写出经得起严格评审的结果承诺：读取历史完成情况、上下级承接和协作关系，生成、写入并核验飞书 OKR。
 
+**[飞书绩效助手｜Feishu Performance Assistant](https://github.com/TongyiDai/feishu-performance-assistant)** · [Chrome 商店](https://chromewebstore.google.com/detail/gadlmgoojihfbclnnhkkllmjdmgpdjjl?utm_source=item-share-cb)
+
+> 把需要并排看的页面，放回同一块屏幕。
+
+在飞书 / Lark 绩效页面里，把 Base、Wiki 和 App 链接放进 Chrome 侧边栏，让查绩效、看资料和回到主页面同时进行。
+
 **[职业操作系统｜Career Ops](https://github.com/TongyiDai/career-ops-zh)**
 
 > 公司用 AI 筛候选人，我们把 AI 交给候选人。
