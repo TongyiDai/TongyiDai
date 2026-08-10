@@ -47,7 +47,7 @@
 
 > 把一次谈话放回共同工作里。
 
-基于飞书日程、会议、共同消息、共享文档、任务和 OKR，帮助管理者准备 1:1、整理共识并跟进行动；默认只读，强调证据边界和最小权限。
+基于飞书日程、会议、共同消息、共享文档、任务和 OKR，帮助管理者准备 1:1、整理共识并跟进行动。
 
 **[绩效环评人推荐｜Performance Reviewer Recommendation](https://github.com/TongyiDai/performance-reviewer-recommendation)**
 
