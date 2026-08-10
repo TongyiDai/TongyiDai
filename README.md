@@ -10,12 +10,12 @@
 ## 精选项目｜Featured Projects
 
 <p align="left">
-  <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=2" width="48%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
-  <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg?v=2" width="48%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
-  <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=2" width="48%" alt="巨人之肩：先例扫描到一条裁决" /></a>
-  <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg?v=2" width="48%" alt="中文老师：材料到有判断力的中文" /></a>
-  <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=2" width="48%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
-  <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=2" width="48%" alt="职业操作系统：岗位信息到求职决策" /></a>
+  <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=2" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
+  <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg?v=2" width="31%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
+  <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=2" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a><br />
+  <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg?v=2" width="31%" alt="中文老师：材料到有判断力的中文" /></a>
+  <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=2" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
+  <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=2" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
 </p>
 
 ## 全部项目｜All Projects
