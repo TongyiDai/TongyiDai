@@ -44,19 +44,11 @@
 <details>
   <summary><strong>扫码联系｜Scan to connect</strong></summary>
 
-<table align="center" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td align="center" valign="top">
-      <strong>飞书｜Feishu</strong><br />
-      <img src="./assets/contact/feishu.png" width="260" alt="公司飞书二维码" />
-    </td>
-    <td width="36" aria-hidden="true">&nbsp;</td>
-    <td align="center" valign="top">
-      <strong>微信｜WeChat</strong><br />
-      <img src="./assets/contact/wechat.jpg" width="260" alt="微信二维码" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/contact/feishu.png" width="260" alt="公司飞书二维码" />
+  &emsp;&emsp;&emsp;
+  <img src="./assets/contact/wechat.jpg" width="260" alt="微信二维码" />
+</p>
 
 </details>
 
