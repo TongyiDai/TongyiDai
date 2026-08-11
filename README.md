@@ -44,7 +44,7 @@
 <details>
   <summary><strong>扫码联系｜Scan to connect</strong></summary>
 
-<table>
+<table align="center" cellpadding="18" cellspacing="0" border="0">
   <tr>
     <td align="center" valign="top">
       <strong>飞书｜Feishu</strong><br />
