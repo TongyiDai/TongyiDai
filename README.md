@@ -39,6 +39,26 @@
 
 </details>
 
+## 联系｜Contact
+
+<details>
+  <summary><strong>扫码联系｜Scan to connect</strong></summary>
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <strong>飞书｜Feishu</strong><br />
+      <img src="./assets/contact/feishu.png" width="260" alt="公司飞书二维码" />
+    </td>
+    <td align="center" valign="top">
+      <strong>微信｜WeChat</strong><br />
+      <img src="./assets/contact/wechat.jpg" width="260" alt="微信二维码" />
+    </td>
+  </tr>
+</table>
+
+</details>
+
 ---
 
 > 把时间还给思考，把流程交给工具，把专业留给业务，把价值带给组织。  
