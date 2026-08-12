@@ -2,6 +2,12 @@
   <title id="title">麦肯锡人力大脑</title>
   <desc id="desc">从公开资料构建可追溯的人力顾问知识库</desc>
   <rect x="1" y="1" width="598" height="238" rx="18" fill="#F6EBD8" stroke="#0B0A09" stroke-width="2"/>
+  <g aria-label="标签：skill、HR">
+    <rect x="430" y="16" width="58" height="24" rx="12" fill="#DCE8FF" stroke="#2F6BFF" stroke-width="1.2"/>
+    <text x="459" y="32" text-anchor="middle" fill="#1D4ED8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="700">skill</text>
+    <rect x="496" y="16" width="70" height="24" rx="12" fill="#FCE8D5" stroke="#F59E0B" stroke-width="1.2"/>
+    <text x="531" y="32" text-anchor="middle" fill="#B45309" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="700">HR</text>
+  </g>
   <text x="34" y="42" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="16" letter-spacing="1.5">SKILL / PEOPLE &amp; ORG</text>
   <text x="34" y="88" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="32" font-weight="700">麦肯锡人力大脑</text>
   <text x="34" y="118" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">MBB People Brain</text>
