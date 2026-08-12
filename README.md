@@ -15,13 +15,13 @@
   <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=4" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a><br />
   <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg?v=4" width="31%" alt="中文老师：材料到有判断力的中文" /></a>
   <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=4" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
-  <a href="https://timeismoney888.lovable.app/app.html"><img src="./assets/profile-cards/timeismoney.svg?v=4" width="31%" alt="窝囊费计算器：工资换算到时间收益" /></a>
+  <a href="https://github.com/TongyiDai/emotion-tide"><img src="./assets/profile-cards/emotion-tide.svg?v=1" width="31%" alt="情绪潮汐：本人消息到可校准的私密情绪回顾" /></a>
 </p>
 
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>展开全部项目（12）</strong></summary>
+  <summary><strong>展开全部项目（13）</strong></summary>
 
 <p align="center">
   <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=4" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a>
@@ -36,6 +36,8 @@
   <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=4" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
   <a href="https://github.com/TongyiDai/agent-value-ledger"><img src="./assets/profile-cards/value-ledger.svg?v=4" width="31%" alt="AI 的时间也是钱：AI 交付物到时间价值" /></a>
   <a href="https://timeismoney888.lovable.app/app.html"><img src="./assets/profile-cards/timeismoney.svg?v=4" width="31%" alt="窝囊费计算器：工资换算到时间收益" /></a>
+  <br />
+  <a href="https://github.com/TongyiDai/emotion-tide"><img src="./assets/profile-cards/emotion-tide.svg?v=1" width="31%" alt="情绪潮汐：本人消息到可校准的私密情绪回顾" /></a>
 </p>
 
 </details>
