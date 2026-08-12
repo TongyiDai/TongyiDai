@@ -7,6 +7,8 @@
   <img src="./assets/profile-intro-bilingual.png" alt="我用 AI 和工具，帮老板和 HR 管理好组织和人才｜I use AI and tools to help founders and HR manage people and organizations" width="100%" />
 </p>
 
+> [视野之外](https://github.com/TongyiDai/vision-beyond)：帮你找到视野之外、值得关注的飞书信号。
+
 ## 精选项目｜Featured Projects
 
 <p align="center">
@@ -30,7 +32,7 @@
   <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg?v=4" width="31%" alt="中文老师：材料到有判断力的中文" /></a>
   <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg?v=4" width="31%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
   <a href="https://github.com/TongyiDai/one-on-one-manager"><img src="./assets/profile-cards/one-on-one.svg?v=4" width="31%" alt="1:1 沟通助手：共同上下文到一次有效 1:1" /></a><br />
-  <a href="https://github.com/TongyiDai/vision-beyond"><img src="./assets/profile-cards/vision-beyond.svg?v=1" width="31%" alt="视野之外：工作地图到高价值 Top 5" /></a>
+  <a href="https://github.com/TongyiDai/vision-beyond"><img src="./assets/profile-cards/vision-beyond.svg?v=2" width="31%" alt="视野之外：找到值得关注的飞书信号" /></a>
   <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=4" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
   <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=4" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a><br />
   <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=4" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
