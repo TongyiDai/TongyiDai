@@ -7,10 +7,6 @@
   <img src="./assets/profile-intro-bilingual.png" alt="我用 AI 和工具，帮老板和 HR 管理好组织和人才｜I use AI and tools to help founders and HR manage people and organizations" width="100%" />
 </p>
 
-## HRAI 知识网站｜Live
-
-<a href="https://bytedance.aiforce.cloud/app/app_178yfa9z69k/"><strong>HR AI 故事会</strong></a>：面向 HR 同学的 AI 知识入口，沉淀新闻、深度案例、Skills 与 BAT AI 招聘趋势。
-
 ## 精选项目｜Featured Projects
 
 <p align="center">
@@ -21,6 +17,10 @@
   <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=11" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
   <a href="https://github.com/TongyiDai/emotion-tide"><img src="./assets/profile-cards/emotion-tide.svg?v=11" width="31%" alt="情绪潮汐：本人消息到可校准的私密情绪回顾" /></a>
 </p>
+
+## HRAI 知识网站｜Live
+
+<a href="https://bytedance.aiforce.cloud/app/app_178yfa9z69k/"><strong>HR AI 故事会</strong></a>：面向 HR 同学的 AI 知识入口，沉淀新闻、深度案例、Skills 与 BAT AI 招聘趋势。
 
 ## 全部项目｜All Projects
 
