@@ -10,12 +10,12 @@
 ## 精选项目｜Featured Projects
 
 <p align="center">
-  <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=7" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
-  <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg?v=7" width="31%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
-  <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=7" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a><br />
-  <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg?v=7" width="31%" alt="中文老师：材料到有判断力的中文" /></a>
-  <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=7" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
-  <a href="https://github.com/TongyiDai/emotion-tide"><img src="./assets/profile-cards/emotion-tide.svg?v=7" width="31%" alt="情绪潮汐：本人消息到可校准的私密情绪回顾" /></a>
+  <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=9" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
+  <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg?v=9" width="31%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
+  <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=9" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a><br />
+  <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg?v=9" width="31%" alt="中文老师：材料到有判断力的中文" /></a>
+  <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=9" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
+  <a href="https://github.com/TongyiDai/emotion-tide"><img src="./assets/profile-cards/emotion-tide.svg?v=9" width="31%" alt="情绪潮汐：本人消息到可校准的私密情绪回顾" /></a>
 </p>
 
 ## 全部项目｜All Projects
@@ -26,35 +26,39 @@
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
   <p align="center">
-    <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=8" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
-    <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=8" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
-    <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=8" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a><br />
-    <a href="https://github.com/TongyiDai/one-on-one-manager"><img src="./assets/profile-cards/one-on-one.svg?v=8" width="31%" alt="1:1 沟通助手：共同上下文到一次有效 1:1" /></a>
-    <a href="https://github.com/TongyiDai/hr-compensation-analysis"><img src="./assets/profile-cards/hr-compensation-analysis.svg?v=8" width="31%" alt="薪酬结构分析：脱敏材料到人工复核" /></a>
+    <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=9" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
+    <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=9" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
+    <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=9" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
+  </p>
+  <p>
+    <a href="https://github.com/TongyiDai/one-on-one-manager"><img src="./assets/profile-cards/one-on-one.svg?v=9" width="31%" alt="1:1 沟通助手：共同上下文到一次有效 1:1" /></a>
+    <a href="https://github.com/TongyiDai/hr-compensation-analysis"><img src="./assets/profile-cards/hr-compensation-analysis.svg?v=9" width="31%" alt="薪酬结构分析：脱敏材料到人工复核" /></a>
   </p>
 
   <h3>Feishu / Lark｜工作流</h3>
   <p>把工作现场接入可执行流程。</p>
   <p align="center">
-    <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg?v=8" width="31%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
-    <a href="https://github.com/TongyiDai/vision-beyond"><img src="./assets/profile-cards/vision-beyond.svg?v=8" width="31%" alt="视野之外：找到值得关注的飞书信号" /></a>
-    <a href="https://github.com/TongyiDai/emotion-tide"><img src="./assets/profile-cards/emotion-tide.svg?v=8" width="31%" alt="情绪潮汐：本人消息到可校准的私密情绪回顾" /></a>
+    <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg?v=9" width="31%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
+    <a href="https://github.com/TongyiDai/vision-beyond"><img src="./assets/profile-cards/vision-beyond.svg?v=9" width="31%" alt="视野之外：找到值得关注的飞书信号" /></a>
+    <a href="https://github.com/TongyiDai/emotion-tide"><img src="./assets/profile-cards/emotion-tide.svg?v=9" width="31%" alt="情绪潮汐：本人消息到可校准的私密情绪回顾" /></a>
   </p>
 
   <h3>AI Skills｜方法与工具</h3>
   <p>把方法沉淀成可复用能力。</p>
   <p align="center">
-    <a href="https://github.com/TongyiDai/xinjin-huochuan"><img src="./assets/profile-cards/agent-relay.svg?v=8" width="31%" alt="薪尽火传：工作现场到可靠交接" /></a>
-    <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg?v=8" width="31%" alt="中文老师：材料到有判断力的中文" /></a>
-    <a href="https://github.com/TongyiDai/geometry-board-skill"><img src="./assets/profile-cards/geometry-board.svg?v=8" width="31%" alt="蓝色波点：复杂内容到一图一意" /></a><br />
-    <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=8" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a>
-    <a href="https://github.com/TongyiDai/agent-value-ledger"><img src="./assets/profile-cards/value-ledger.svg?v=8" width="31%" alt="AI 的时间也是钱：AI 交付物到时间价值" /></a>
+    <a href="https://github.com/TongyiDai/xinjin-huochuan"><img src="./assets/profile-cards/agent-relay.svg?v=9" width="31%" alt="薪尽火传：工作现场到可靠交接" /></a>
+    <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg?v=9" width="31%" alt="中文老师：材料到有判断力的中文" /></a>
+    <a href="https://github.com/TongyiDai/geometry-board-skill"><img src="./assets/profile-cards/geometry-board.svg?v=9" width="31%" alt="蓝色波点：复杂内容到一图一意" /></a>
+  </p>
+  <p>
+    <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=9" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a>
+    <a href="https://github.com/TongyiDai/agent-value-ledger"><img src="./assets/profile-cards/value-ledger.svg?v=9" width="31%" alt="AI 的时间也是钱：AI 交付物到时间价值" /></a>
   </p>
 
   <h3>Playground｜ForFun</h3>
   <p>一些不那么严肃的实验。</p>
-  <p align="center">
-    <a href="https://timeismoney888.lovable.app/app.html"><img src="./assets/profile-cards/timeismoney.svg?v=8" width="31%" alt="窝囊费计算器：工资换算到时间收益" /></a>
+  <p>
+    <a href="https://timeismoney888.lovable.app/app.html"><img src="./assets/profile-cards/timeismoney.svg?v=9" width="31%" alt="窝囊费计算器：工资换算到时间收益" /></a>
   </p>
 
 </details>
