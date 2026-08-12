@@ -7,8 +7,6 @@
   <img src="./assets/profile-intro-bilingual.png" alt="我用 AI 和工具，帮老板和 HR 管理好组织和人才｜I use AI and tools to help founders and HR manage people and organizations" width="100%" />
 </p>
 
-> [视野之外](https://github.com/TongyiDai/vision-beyond)：帮你找到视野之外、值得关注的飞书信号。
-
 ## 精选项目｜Featured Projects
 
 <p align="center">
