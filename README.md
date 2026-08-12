@@ -21,7 +21,7 @@
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>按类别浏览全部项目（14）</strong></summary>
+  <summary><strong>按类别浏览全部项目（16）</strong></summary>
 
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
@@ -33,6 +33,11 @@
   <p align="center">
     <a href="https://github.com/TongyiDai/one-on-one-manager"><img src="./assets/profile-cards/one-on-one.svg?v=11" width="31%" alt="1:1 沟通助手：共同上下文到一次有效 1:1" /></a>
     <a href="https://github.com/TongyiDai/hr-compensation-analysis"><img src="./assets/profile-cards/hr-compensation-analysis.svg?v=11" width="31%" alt="薪酬结构分析：脱敏材料到人工复核" /></a>
+    <a href="https://github.com/TongyiDai/hr-interview-prep"><img src="./assets/profile-cards/hr-interview-prep.svg?v=1" width="31%" alt="岗位面试设计：岗位材料到结构化面试" /></a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/TongyiDai/hr-recruiting-pipeline"><img src="./assets/profile-cards/hr-recruiting-pipeline.svg?v=1" width="31%" alt="招聘流水分析：招聘流水到漏斗分析" /></a>
+    <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
     <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
   </p>
 
