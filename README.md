@@ -20,7 +20,7 @@
 
 ## HRAI 知识网站｜Live
 
-<a href="https://bytedance.aiforce.cloud/app/app_178yfa9z69k/"><strong>HR AI 故事会</strong></a>：面向 HR 同学的 AI 知识入口，沉淀新闻、深度案例、Skills 与 BAT AI 招聘趋势。
+<a href="https://bytedance.aiforce.cloud/app/app_178yfa9z69k/"><strong>HR AI 故事会</strong></a>：面向 HR 同学的 AI 知识入口，每日更新，沉淀新闻、深度案例、Skills 与 BAT AI 招聘趋势。
 
 ## 全部项目｜All Projects
 
