@@ -7,7 +7,7 @@
   <img src="./assets/profile-intro-bilingual.png" alt="我用 AI 和工具，帮老板和 HR 管理好组织和人才｜I use AI and tools to help founders and HR manage people and organizations" width="100%" />
 </p>
 
-## 在跑的网站｜Live
+## HRAI 知识网站｜Live
 
 <a href="https://bytedance.aiforce.cloud/app/app_178yfa9z69k/"><strong>HR AI 故事会</strong></a>：面向 HR 同学的 AI 知识入口，沉淀新闻、深度案例、Skills 与 BAT AI 招聘趋势。
 
