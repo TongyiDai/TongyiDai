@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=11" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
   <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg?v=11" width="31%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
-  <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=11" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a><br />
+  <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=11" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a><br /><br />
   <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg?v=11" width="31%" alt="中文老师：材料到有判断力的中文" /></a>
   <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=11" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
   <a href="https://github.com/TongyiDai/emotion-tide"><img src="./assets/profile-cards/emotion-tide.svg?v=11" width="31%" alt="情绪潮汐：本人消息到可校准的私密情绪回顾" /></a>
@@ -28,14 +28,10 @@
   <p align="center">
     <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=11" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
     <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=11" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
-    <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=11" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
-  </p>
-  <p align="center">
+    <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=11" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a><br /><br />
     <a href="https://github.com/TongyiDai/one-on-one-manager"><img src="./assets/profile-cards/one-on-one.svg?v=11" width="31%" alt="1:1 沟通助手：共同上下文到一次有效 1:1" /></a>
     <a href="https://github.com/TongyiDai/hr-compensation-analysis"><img src="./assets/profile-cards/hr-compensation-analysis.svg?v=11" width="31%" alt="薪酬结构分析：脱敏材料到人工复核" /></a>
-    <a href="https://github.com/TongyiDai/hr-interview-prep"><img src="./assets/profile-cards/hr-interview-prep.svg?v=1" width="31%" alt="岗位面试设计：岗位材料到结构化面试" /></a>
-  </p>
-  <p align="center">
+    <a href="https://github.com/TongyiDai/hr-interview-prep"><img src="./assets/profile-cards/hr-interview-prep.svg?v=1" width="31%" alt="岗位面试设计：岗位材料到结构化面试" /></a><br /><br />
     <a href="https://github.com/TongyiDai/hr-recruiting-pipeline"><img src="./assets/profile-cards/hr-recruiting-pipeline.svg?v=1" width="31%" alt="招聘流水分析：招聘流水到漏斗分析" /></a>
     <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
     <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
@@ -54,9 +50,7 @@
   <p align="center">
     <a href="https://github.com/TongyiDai/xinjin-huochuan"><img src="./assets/profile-cards/agent-relay.svg?v=11" width="31%" alt="薪尽火传：工作现场到可靠交接" /></a>
     <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg?v=11" width="31%" alt="中文老师：材料到有判断力的中文" /></a>
-    <a href="https://github.com/TongyiDai/geometry-board-skill"><img src="./assets/profile-cards/geometry-board.svg?v=11" width="31%" alt="蓝色波点：复杂内容到一图一意" /></a>
-  </p>
-  <p align="center">
+    <a href="https://github.com/TongyiDai/geometry-board-skill"><img src="./assets/profile-cards/geometry-board.svg?v=11" width="31%" alt="蓝色波点：复杂内容到一图一意" /></a><br /><br />
     <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=11" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a>
     <a href="https://github.com/TongyiDai/agent-value-ledger"><img src="./assets/profile-cards/value-ledger.svg?v=11" width="31%" alt="AI 的时间也是钱：AI 交付物到时间价值" /></a>
     <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
