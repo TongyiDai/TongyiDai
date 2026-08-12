@@ -2,11 +2,7 @@
   <title id="title">中文老师</title>
   <desc id="desc">让中文工作文档有判断力、有人味、能推动决策</desc>
   <rect x="1" y="1" width="598" height="238" rx="18" fill="#F6EBD8" stroke="#0B0A09" stroke-width="2"/>
-  <g aria-label="标签：Skill">
-    <rect x="470" y="10" width="82" height="28" rx="10" fill="none" stroke="#2F6BFF" stroke-width="1.4"/>
-    <text x="511" y="24" dominant-baseline="middle" text-anchor="middle" fill="#2F6BFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15" font-weight="700">Skill</text>
-  </g>
-  <text x="34" y="42" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="16" letter-spacing="1.5">SKILL / WRITING</text>
+  <text x="34" y="34" fill="#2F6BFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="15" font-weight="700" letter-spacing="0.6">Skill</text>
   <text x="34" y="88" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="32" font-weight="700">中文老师</text>
   <text x="34" y="118" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Chinese Teacher</text>
   <text x="34" y="160" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="19">全世界都该学中国话，AI 也不例外。</text>
