@@ -21,7 +21,7 @@
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>展开全部项目（13）</strong></summary>
+  <summary><strong>展开全部项目（14）</strong></summary>
 
 <p align="center">
   <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=5" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a>
@@ -38,6 +38,7 @@
   <a href="https://timeismoney888.lovable.app/app.html"><img src="./assets/profile-cards/timeismoney.svg?v=5" width="31%" alt="窝囊费计算器：工资换算到时间收益" /></a>
   <br />
   <a href="https://github.com/TongyiDai/emotion-tide"><img src="./assets/profile-cards/emotion-tide.svg?v=5" width="31%" alt="情绪潮汐：本人消息到可校准的私密情绪回顾" /></a>
+  <a href="https://github.com/TongyiDai/hr-compensation-analysis"><img src="./assets/profile-cards/hr-compensation-analysis.svg?v=1" width="31%" alt="薪酬结构分析：脱敏材料到人工复核" /></a>
 </p>
 
 </details>
