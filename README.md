@@ -7,6 +7,10 @@
   <img src="./assets/profile-intro-bilingual.png" alt="我用 AI 和工具，帮老板和 HR 管理好组织和人才｜I use AI and tools to help founders and HR manage people and organizations" width="100%" />
 </p>
 
+## 在跑的网站｜Live
+
+<a href="https://bytedance.aiforce.cloud/app/app_178yfa9z69k/"><strong>HR AI 故事会</strong></a>：面向 HR 同学的 AI 知识入口，沉淀新闻、深度案例、Skills 与 BAT AI 招聘趋势。
+
 ## 精选项目｜Featured Projects
 
 <p align="center">
@@ -26,13 +30,13 @@
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
   <p align="center">
-    <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=11" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
     <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=11" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
-    <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=11" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a><br /><br />
-    <a href="https://github.com/TongyiDai/one-on-one-manager"><img src="./assets/profile-cards/one-on-one.svg?v=11" width="31%" alt="1:1 沟通助手：共同上下文到一次有效 1:1" /></a>
+    <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=11" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
+    <a href="https://github.com/TongyiDai/one-on-one-manager"><img src="./assets/profile-cards/one-on-one.svg?v=11" width="31%" alt="1:1 沟通助手：共同上下文到一次有效 1:1" /></a><br /><br />
     <a href="https://github.com/TongyiDai/hr-compensation-analysis"><img src="./assets/profile-cards/hr-compensation-analysis.svg?v=11" width="31%" alt="薪酬结构分析：脱敏材料到人工复核" /></a>
-    <a href="https://github.com/TongyiDai/hr-interview-prep"><img src="./assets/profile-cards/hr-interview-prep.svg?v=1" width="31%" alt="岗位面试设计：岗位材料到结构化面试" /></a><br /><br />
-    <a href="https://github.com/TongyiDai/hr-recruiting-pipeline"><img src="./assets/profile-cards/hr-recruiting-pipeline.svg?v=1" width="31%" alt="招聘流水分析：招聘流水到漏斗分析" /></a>
+    <a href="https://github.com/TongyiDai/hr-interview-prep"><img src="./assets/profile-cards/hr-interview-prep.svg?v=1" width="31%" alt="岗位面试设计：岗位材料到结构化面试" /></a>
+    <a href="https://github.com/TongyiDai/hr-recruiting-pipeline"><img src="./assets/profile-cards/hr-recruiting-pipeline.svg?v=1" width="31%" alt="招聘流水分析：招聘流水到漏斗分析" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=11" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
     <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
     <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
   </p>
