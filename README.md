@@ -1,8 +1,7 @@
-> 我用 AI 和工具，帮老板和 HR 管理好组织和人才。  
-> I use AI and tools to help founders and HR manage people and organizations.
-
 # 戴同一｜Tongyi Dai 👋
 
+> 我用 AI 和工具，帮老板和 HR 管理好组织和人才。  
+> I use AI and tools to help founders and HR manage people and organizations.
 <p align="center">
   <img src="./assets/profile-intro-bilingual.png" alt="我用 AI 和工具，帮老板和 HR 管理好组织和人才｜I use AI and tools to help founders and HR manage people and organizations" width="100%" />
 </p>
