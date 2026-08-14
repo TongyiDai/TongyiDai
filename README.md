@@ -25,7 +25,7 @@
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>按类别浏览全部项目（17）</strong></summary>
+  <summary><strong>按类别浏览全部项目（18）</strong></summary>
 
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
@@ -64,7 +64,7 @@
   <p>一些不那么严肃的实验。</p>
   <p align="center">
     <a href="https://timeismoney888.lovable.app/app.html"><img src="./assets/profile-cards/timeismoney.svg?v=11" width="31%" alt="窝囊费计算器：工资换算到时间收益" /></a>
-    <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
+    <a href="https://github.com/TongyiDai/lovely-cloud"><img src="./assets/profile-cards/lovely-cloud.svg?v=1" width="31%" alt="可爱的云：云朵照片到轻手绘灵气图" /></a>
     <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
   </p>
 
