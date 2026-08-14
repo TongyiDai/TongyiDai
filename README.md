@@ -64,7 +64,7 @@
   <p>一些不那么严肃的实验。</p>
   <p align="center">
     <a href="https://timeismoney888.lovable.app/app.html"><img src="./assets/profile-cards/timeismoney.svg?v=11" width="31%" alt="窝囊费计算器：工资换算到时间收益" /></a>
-    <a href="https://github.com/TongyiDai/lovely-cloud"><img src="./assets/profile-cards/lovely-cloud.svg?v=1" width="31%" alt="可爱的云：云朵照片到轻手绘灵气图" /></a>
+    <a href="https://github.com/TongyiDai/lovely-cloud"><img src="./assets/profile-cards/lovely-cloud.svg?v=2" width="31%" alt="一朵小可爱：云朵照片到轻手绘灵气图" /></a>
     <a href="https://github.com/TongyiDai/rulai-skill"><img src="./assets/profile-cards/rulai.svg?v=1" width="31%" alt="如来：任何一件事到佛学视角的洞察" /></a>
   </p>
 
