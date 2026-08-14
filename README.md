@@ -8,6 +8,7 @@
 </p>
 
 ## 精选项目｜Featured Projects
+> 希望对你也有所帮助。
 
 <p align="center">
   <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=11" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
