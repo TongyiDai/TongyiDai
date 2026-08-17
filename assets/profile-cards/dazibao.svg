@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" role="img" aria-labelledby="title desc">
+  <title id="title">大字报｜Dazibao</title>
+  <desc id="desc">把结论做成云文档首屏的高对比画板</desc>
+  <rect x="1" y="1" width="598" height="238" rx="18" fill="#F6EBD8" stroke="#0B0A09" stroke-width="2"/>
+  <text x="34" y="34" fill="#2F6BFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="15" font-weight="700" letter-spacing="0.6">Skill</text>
+  <text x="34" y="88" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="32" font-weight="700">大字报</text>
+  <text x="34" y="118" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Dazibao</text>
+  <text x="34" y="160" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="19">结论先行，云文档首屏先放一张画板。</text>
+  <text x="34" y="207" fill="#2F6BFF" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="16" font-weight="600">结论 → 4 张画板 → 云文档</text>
+  <text x="552" y="207" text-anchor="end" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15">OPEN ↗</text>
+</svg>

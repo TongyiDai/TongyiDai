@@ -25,7 +25,7 @@
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>按类别浏览全部项目（22）</strong></summary>
+  <summary><strong>按类别浏览全部项目（23）</strong></summary>
 
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
@@ -60,7 +60,7 @@
     <a href="https://github.com/TongyiDai/geometry-board-skill"><img src="./assets/profile-cards/geometry-board.svg?v=11" width="31%" alt="蓝色波点：复杂内容到一图一意" /></a><br /><br />
     <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=11" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a>
     <a href="https://github.com/TongyiDai/agent-value-ledger"><img src="./assets/profile-cards/value-ledger.svg?v=11" width="31%" alt="AI 的时间也是钱：AI 交付物到时间价值" /></a>
-    <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
+    <a href="https://github.com/TongyiDai/dazibao"><img src="./assets/profile-cards/dazibao.svg?v=1" width="31%" alt="大字报：结论到云文档首屏画板" /></a>
   </p>
 
   <h3>Playground｜ForFun</h3>
