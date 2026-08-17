@@ -25,7 +25,7 @@
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>按类别浏览全部项目（21）</strong></summary>
+  <summary><strong>按类别浏览全部项目（22）</strong></summary>
 
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
@@ -40,7 +40,7 @@
     <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=11" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
     <a href="https://github.com/TongyiDai/hr-engagement-survey"><img src="./assets/profile-cards/hr-engagement-survey.svg?v=1" width="31%" alt="员工敬业度匿名调研：选模板到聚合洞察" /></a><br /><br />
     <a href="https://github.com/TongyiDai/employee-retention"><img src="./assets/profile-cards/employee-retention.svg?v=1" width="31%" alt="员工离职挽留：诊断状态到个性化挽留方案" /></a>
-    <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
+    <a href="https://github.com/TongyiDai/employee-motivation"><img src="./assets/profile-cards/employee-motivation.svg?v=1" width="31%" alt="员工动机诊断：飞书资产到双模型证据链" /></a>
     <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
   </p>
 
