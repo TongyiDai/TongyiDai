@@ -1,7 +1,9 @@
+> 我用 AI 和工具，帮老板和 HR 管理好组织和人才。
+> I use AI and tools to help founders and HR manage people and organizations.
+> ——戴同一｜Tongyi Dai
+
 # 戴同一｜Tongyi Dai 👋
 
-> 我用 AI 和工具，帮老板和 HR 管理好组织和人才。  
-> I use AI and tools to help founders and HR manage people and organizations.
 <p align="center">
   <img src="./assets/profile-intro-bilingual.png" alt="我用 AI 和工具，帮老板和 HR 管理好组织和人才｜I use AI and tools to help founders and HR manage people and organizations" width="100%" />
 </p>
@@ -35,7 +37,7 @@
     <a href="https://github.com/TongyiDai/one-on-one-manager"><img src="./assets/profile-cards/one-on-one.svg?v=11" width="31%" alt="1:1 沟通助手：共同上下文到一次有效 1:1" /></a><br /><br />
     <a href="https://github.com/TongyiDai/hr-compensation-analysis"><img src="./assets/profile-cards/hr-compensation-analysis.svg?v=11" width="31%" alt="薪酬结构分析：脱敏材料到人工复核" /></a>
     <a href="https://github.com/TongyiDai/hr-interview-prep"><img src="./assets/profile-cards/hr-interview-prep.svg?v=1" width="31%" alt="岗位面试设计：岗位材料到结构化面试" /></a>
-    <a href="https://github.com/TongyiDai/hr-recruiting-pipeline"><img src="./assets/profile-cards/hr-recruiting-pipeline.svg?v=1" width="31%" alt="招聘流水分析：招聘流水到漏斗分析" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/hr-recruiting-pipeline"><img src="./assets/profile-cards/hr-recruiting-pipeline.svg?v=2" width="31%" alt="招聘漏斗分析：招聘数据到漏斗分析" /></a><br /><br />
     <a href="https://github.com/TongyiDai/hr-offer-drafter"><img src="./assets/profile-cards/hr-offer-drafter.svg?v=1" width="31%" alt="Offer 起草：脱敏要素到可复核草稿" /></a>
     <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=11" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
     <a href="https://github.com/TongyiDai/hr-engagement-survey"><img src="./assets/profile-cards/hr-engagement-survey.svg?v=1" width="31%" alt="员工敬业度匿名调研：选模板到聚合洞察" /></a><br /><br />
@@ -87,6 +89,3 @@
 </details>
 
 ---
-
-> 把时间还给思考，把流程交给工具，把专业留给业务，把价值带给组织。  
-> Give time back to thinking. Give workflows to tools. Keep expertise in the business. Bring value to the organization.
