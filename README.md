@@ -62,7 +62,7 @@
     <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=11" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a>
     <a href="https://github.com/TongyiDai/agent-value-ledger"><img src="./assets/profile-cards/value-ledger.svg?v=11" width="31%" alt="AI 的时间也是钱：AI 交付物到时间价值" /></a>
     <a href="https://github.com/TongyiDai/dazibao"><img src="./assets/profile-cards/dazibao.svg?v=1" width="31%" alt="大字报：结论到云文档首屏画板" /></a><br /><br />
-    <a href="https://github.com/TongyiDai/ai-sanxing"><img src="./assets/profile-cards/ai-sanxing.svg?v=1" width="31%" alt="AI 三省：交付前对产出做三轴自审" /></a>
+    <a href="https://github.com/TongyiDai/ai-sanxing"><img src="./assets/profile-cards/ai-sanxing.svg?v=2" width="31%" alt="三省 AI 身：交付前对产出做三轴自审" /></a>
     <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
     <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
   </p>
