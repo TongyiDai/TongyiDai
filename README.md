@@ -11,7 +11,7 @@
 > 希望对你也有所帮助。
 
 <p align="center">
-  <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=11" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
+  <a href="https://github.com/TongyiDai/boss-reports-to-me"><img src="./assets/profile-cards/boss-reports.svg?v=1" width="31%" alt="老板向我汇报：各层 leader 到每周动态周报" /></a>
   <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg?v=11" width="31%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
   <a href="https://github.com/TongyiDai/giants-shoulders"><img src="./assets/profile-cards/giants-shoulders.svg?v=11" width="31%" alt="巨人之肩：先例扫描到一条裁决" /></a><br /><br />
   <a href="https://github.com/TongyiDai/chinese-teacher"><img src="./assets/profile-cards/chinese-teacher.svg?v=11" width="31%" alt="中文老师：材料到有判断力的中文" /></a>
@@ -26,23 +26,26 @@
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>按类别浏览全部项目（25）</strong></summary>
+  <summary><strong>按类别浏览全部项目（26）</strong></summary>
 
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
   <p align="center">
+    <a href="https://github.com/TongyiDai/boss-reports-to-me"><img src="./assets/profile-cards/boss-reports.svg?v=1" width="31%" alt="老板向我汇报：各层 leader 到每周动态周报" /></a>
     <a href="https://github.com/TongyiDai/performance-reviewer-recommendation"><img src="./assets/profile-cards/performance-reviewer.svg?v=11" width="31%" alt="绩效环评人推荐：授权证据到 360 评审人" /></a>
-    <a href="https://github.com/TongyiDai/leadership-coach"><img src="./assets/profile-cards/leadership-coach.svg?v=1" width="31%" alt="领导力陪练：真实发言到领导力改进" /></a>
-    <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=11" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/leadership-coach"><img src="./assets/profile-cards/leadership-coach.svg?v=1" width="31%" alt="领导力陪练：真实发言到领导力改进" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/mckinsey-people-brain"><img src="./assets/profile-cards/mckinsey-people-brain.svg?v=11" width="31%" alt="麦肯锡人力大脑：公开资料到可追溯洞见" /></a>
     <a href="https://github.com/TongyiDai/one-on-one-manager"><img src="./assets/profile-cards/one-on-one.svg?v=11" width="31%" alt="1:1 沟通助手：共同上下文到一次有效 1:1" /></a>
-    <a href="https://github.com/TongyiDai/hr-compensation-analysis"><img src="./assets/profile-cards/hr-compensation-analysis.svg?v=11" width="31%" alt="薪酬结构分析：脱敏材料到人工复核" /></a>
-    <a href="https://github.com/TongyiDai/hr-interview-prep"><img src="./assets/profile-cards/hr-interview-prep.svg?v=1" width="31%" alt="岗位面试设计：岗位材料到结构化面试" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/hr-compensation-analysis"><img src="./assets/profile-cards/hr-compensation-analysis.svg?v=11" width="31%" alt="薪酬结构分析：脱敏材料到人工复核" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/hr-interview-prep"><img src="./assets/profile-cards/hr-interview-prep.svg?v=1" width="31%" alt="岗位面试设计：岗位材料到结构化面试" /></a>
     <a href="https://github.com/TongyiDai/hr-recruiting-pipeline"><img src="./assets/profile-cards/hr-recruiting-pipeline.svg?v=2" width="31%" alt="招聘漏斗分析：招聘数据到漏斗分析" /></a>
-    <a href="https://github.com/TongyiDai/hr-offer-drafter"><img src="./assets/profile-cards/hr-offer-drafter.svg?v=1" width="31%" alt="Offer 起草：脱敏要素到可复核草稿" /></a>
-    <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=11" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/hr-offer-drafter"><img src="./assets/profile-cards/hr-offer-drafter.svg?v=1" width="31%" alt="Offer 起草：脱敏要素到可复核草稿" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=11" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
     <a href="https://github.com/TongyiDai/hr-engagement-survey"><img src="./assets/profile-cards/hr-engagement-survey.svg?v=1" width="31%" alt="员工敬业度匿名调研：选模板到聚合洞察" /></a>
-    <a href="https://github.com/TongyiDai/employee-retention"><img src="./assets/profile-cards/employee-retention.svg?v=1" width="31%" alt="员工离职挽留：诊断状态到个性化挽留方案" /></a>
+    <a href="https://github.com/TongyiDai/employee-retention"><img src="./assets/profile-cards/employee-retention.svg?v=1" width="31%" alt="员工离职挽留：诊断状态到个性化挽留方案" /></a><br /><br />
     <a href="https://github.com/TongyiDai/employee-motivation"><img src="./assets/profile-cards/employee-motivation.svg?v=1" width="31%" alt="员工动机诊断：飞书资产到双模型证据链" /></a>
+    <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
+    <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
   </p>
 
   <h3>Feishu / Lark｜工作流</h3>
