@@ -1,13 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" role="img" aria-labelledby="title desc">
   <title id="title">飞书表情包助手｜Feishu Sticker Pack</title>
   <desc id="desc">把飞书头像和真实使用习惯做成一套专属表情包</desc>
-  <rect x="2" y="2" width="596" height="236" fill="#FDF0E0" stroke="#1A2240" stroke-width="4"/>
-  <rect x="28" y="24" width="108" height="28" fill="#375DFE"/>
-  <text x="82" y="44" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="15" font-weight="700" letter-spacing="0.6">FOR FUN</text>
-  <text x="30" y="101" fill="#1A2240" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="36" font-weight="800">飞书表情包助手</text>
-  <text x="30" y="132" fill="#375DFE" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17" font-weight="700">FEISHU STICKER PACK</text>
-  <line x1="30" y1="151" x2="570" y2="151" stroke="#1A2240" stroke-width="3"/>
-  <text x="30" y="184" fill="#1A2240" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="18" font-weight="600">常用语气，值得长成自己的样子。</text>
-  <text x="30" y="216" fill="#375DFE" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="16" font-weight="700">头像 × 高频表情 → 专属九宫格</text>
-  <text x="570" y="216" text-anchor="end" fill="#1A2240" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15" font-weight="700">OPEN ↗</text>
+  <rect x="1" y="1" width="598" height="238" rx="18" fill="#F6EBD8" stroke="#0B0A09" stroke-width="2"/>
+  <text x="34" y="34" fill="#2F6BFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="15" font-weight="700" letter-spacing="0.6">ForFun</text>
+  <text x="34" y="88" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="32" font-weight="700">飞书表情包助手</text>
+  <text x="34" y="118" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Feishu Sticker Pack</text>
+  <text x="34" y="160" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="19">常用语气，值得长成自己的样子。</text>
+  <text x="34" y="207" fill="#2F6BFF" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="16" font-weight="600">头像 + 高频表情 → 专属九宫格</text>
+  <text x="552" y="207" text-anchor="end" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15">OPEN ↗</text>
 </svg>
