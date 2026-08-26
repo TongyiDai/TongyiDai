@@ -26,7 +26,7 @@
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>按类别浏览全部项目（26）</strong></summary>
+  <summary><strong>按类别浏览全部项目（27）</strong></summary>
 
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
@@ -75,7 +75,10 @@
   <p align="center">
     <a href="https://timeismoney888.lovable.app/app.html"><img src="./assets/profile-cards/timeismoney.svg?v=11" width="31%" alt="窝囊费计算器：工资换算到时间收益" /></a>
     <a href="https://github.com/TongyiDai/lovely-cloud"><img src="./assets/profile-cards/lovely-cloud.svg?v=2" width="31%" alt="一朵小可爱：云朵照片到轻手绘灵气图" /></a>
-    <a href="https://github.com/TongyiDai/rulai-skill"><img src="./assets/profile-cards/rulai.svg?v=1" width="31%" alt="如来：任何一件事到佛学视角的洞察" /></a>
+    <a href="https://github.com/TongyiDai/rulai-skill"><img src="./assets/profile-cards/rulai.svg?v=1" width="31%" alt="如来：任何一件事到佛学视角的洞察" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/feishu-sticker-pack"><img src="./assets/profile-cards/feishu-sticker-pack.svg?v=1" width="31%" alt="飞书表情包助手：头像与真实使用习惯到专属表情包" /></a>
+    <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
+    <img src="./assets/profile-cards/spacer.svg?v=1" width="31%" alt="" />
   </p>
 
 </details>
