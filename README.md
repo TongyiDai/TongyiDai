@@ -4,7 +4,7 @@
 <h1 align="center">戴同一｜Tongyi Dai 👋</h1>
 
 <p align="center">
-  <img src="./assets/profile-intro-bilingual.png" alt="我用 AI 和工具，帮老板和 HR 管理好组织和人才｜I use AI and tools to help founders and HR manage people and organizations" width="100%" />
+  <img src="./assets/profile-mission-practice-bilingual-v2.png" alt="使命愿景价值观：让工作既有价值，又有意思；激发人才潜能，推动组织增长" width="100%" />
 </p>
 
 ## 精选项目｜Featured Projects
