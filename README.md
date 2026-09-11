@@ -26,7 +26,7 @@
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>按类别浏览全部项目（27）</strong></summary>
+  <summary><strong>按类别浏览全部项目（28）</strong></summary>
 
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
@@ -53,7 +53,10 @@
   <p align="center">
     <a href="https://github.com/TongyiDai/feishu-okr-drafter"><img src="./assets/profile-cards/feishu-okr.svg?v=11" width="31%" alt="飞书 OKR 草稿：上下文到可核验 OKR" /></a>
     <a href="https://github.com/TongyiDai/vision-beyond"><img src="./assets/profile-cards/vision-beyond.svg?v=11" width="31%" alt="视野之外：找到值得关注的飞书信号" /></a>
-    <a href="https://github.com/TongyiDai/emotion-tide"><img src="./assets/profile-cards/emotion-tide.svg?v=11" width="31%" alt="情绪潮汐：本人消息到可校准的私密情绪回顾" /></a>
+    <a href="https://github.com/TongyiDai/emotion-tide"><img src="./assets/profile-cards/emotion-tide.svg?v=11" width="31%" alt="情绪潮汐：本人消息到可校准的私密情绪回顾" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/feishu-message-english"><img src="./assets/profile-cards/feishu-message-english.svg?v=1" width="31%" alt="飞书消息英语教练：每天的飞书消息到明天能用的英语" /></a>
+    <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
+    <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
   </p>
 
   <h3>AI Skills｜方法与工具</h3>
