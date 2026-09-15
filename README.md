@@ -1,4 +1,4 @@
-> 完全不懂技术的文科生，正在尝试用 AI 和工具，让工作既有价值，又有意思！
+> 完全不懂技术的文科生，正在尝试用 AI 和工具，帮老板和 HR 管理好人才和组织！
 > I use AI and tools to help founders and HR manage people and organizations.
 
 <h1 align="center">戴同一｜Tongyi Dai 👋</h1>
