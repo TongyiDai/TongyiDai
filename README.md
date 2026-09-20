@@ -26,7 +26,7 @@
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>按类别浏览全部项目（28）</strong></summary>
+  <summary><strong>按类别浏览全部项目（29）</strong></summary>
 
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
@@ -69,7 +69,7 @@
     <a href="https://github.com/TongyiDai/agent-value-ledger"><img src="./assets/profile-cards/value-ledger.svg?v=11" width="31%" alt="AI 的时间也是钱：AI 交付物到时间价值" /></a>
     <a href="https://github.com/TongyiDai/dazibao"><img src="./assets/profile-cards/dazibao.svg?v=1" width="31%" alt="大字报：结论到云文档首屏画板" /></a><br /><br />
     <a href="https://github.com/TongyiDai/ai-sanxing"><img src="./assets/profile-cards/ai-sanxing.svg?v=2" width="31%" alt="三省 AI 身：交付前对产出做三轴自审" /></a>
-    <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
+    <a href="https://github.com/TongyiDai/interview-question-radar"><img src="./assets/profile-cards/interview-question-radar.svg?v=1" width="31%" alt="面试问题雷达：公司、岗位和简历到最可能被问的问题" /></a>
     <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
   </p>
 
