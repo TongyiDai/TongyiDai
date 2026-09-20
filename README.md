@@ -26,7 +26,7 @@
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>按类别浏览全部项目（29）</strong></summary>
+  <summary><strong>按类别浏览全部项目（30）</strong></summary>
 
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
@@ -38,13 +38,13 @@
     <a href="https://github.com/TongyiDai/one-on-one-manager"><img src="./assets/profile-cards/one-on-one.svg?v=11" width="31%" alt="1:1 沟通助手：共同上下文到一次有效 1:1" /></a>
     <a href="https://github.com/TongyiDai/hr-compensation-analysis"><img src="./assets/profile-cards/hr-compensation-analysis.svg?v=11" width="31%" alt="薪酬结构分析：脱敏材料到人工复核" /></a><br /><br />
     <a href="https://github.com/TongyiDai/hr-interview-prep"><img src="./assets/profile-cards/hr-interview-prep.svg?v=1" width="31%" alt="岗位面试设计：岗位材料到结构化面试" /></a>
-    <a href="https://github.com/TongyiDai/hr-recruiting-pipeline"><img src="./assets/profile-cards/hr-recruiting-pipeline.svg?v=2" width="31%" alt="招聘漏斗分析：招聘数据到漏斗分析" /></a>
-    <a href="https://github.com/TongyiDai/hr-offer-drafter"><img src="./assets/profile-cards/hr-offer-drafter.svg?v=1" width="31%" alt="Offer 起草：脱敏要素到可复核草稿" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/hiring-agent-cn"><img src="./assets/profile-cards/hiring-agent-cn.svg?v=1" width="31%" alt="人岗证据审阅：岗位和简历到可追溯证据与面试追问" /></a>
+    <a href="https://github.com/TongyiDai/hr-recruiting-pipeline"><img src="./assets/profile-cards/hr-recruiting-pipeline.svg?v=2" width="31%" alt="招聘漏斗分析：招聘数据到漏斗分析" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/hr-offer-drafter"><img src="./assets/profile-cards/hr-offer-drafter.svg?v=1" width="31%" alt="Offer 起草：脱敏要素到可复核草稿" /></a>
     <a href="https://github.com/TongyiDai/career-ops-zh"><img src="./assets/profile-cards/career-ops.svg?v=11" width="31%" alt="职业操作系统：岗位信息到求职决策" /></a>
-    <a href="https://github.com/TongyiDai/hr-engagement-survey"><img src="./assets/profile-cards/hr-engagement-survey.svg?v=1" width="31%" alt="员工敬业度匿名调研：选模板到聚合洞察" /></a>
-    <a href="https://github.com/TongyiDai/employee-retention"><img src="./assets/profile-cards/employee-retention.svg?v=1" width="31%" alt="员工离职挽留：诊断状态到个性化挽留方案" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/hr-engagement-survey"><img src="./assets/profile-cards/hr-engagement-survey.svg?v=1" width="31%" alt="员工敬业度匿名调研：选模板到聚合洞察" /></a><br /><br />
+    <a href="https://github.com/TongyiDai/employee-retention"><img src="./assets/profile-cards/employee-retention.svg?v=1" width="31%" alt="员工离职挽留：诊断状态到个性化挽留方案" /></a>
     <a href="https://github.com/TongyiDai/employee-motivation"><img src="./assets/profile-cards/employee-motivation.svg?v=1" width="31%" alt="员工动机诊断：飞书资产到双模型证据链" /></a>
-    <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
     <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
   </p>
 
