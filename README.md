@@ -26,7 +26,7 @@
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>按类别浏览全部项目（30）</strong></summary>
+  <summary><strong>按类别浏览全部项目（31）</strong></summary>
 
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
@@ -45,7 +45,7 @@
     <a href="https://github.com/TongyiDai/hr-engagement-survey"><img src="./assets/profile-cards/hr-engagement-survey.svg?v=1" width="31%" alt="员工敬业度匿名调研：选模板到聚合洞察" /></a><br /><br />
     <a href="https://github.com/TongyiDai/employee-retention"><img src="./assets/profile-cards/employee-retention.svg?v=1" width="31%" alt="员工离职挽留：诊断状态到个性化挽留方案" /></a>
     <a href="https://github.com/TongyiDai/employee-motivation"><img src="./assets/profile-cards/employee-motivation.svg?v=1" width="31%" alt="员工动机诊断：飞书资产到双模型证据链" /></a>
-    <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
+    <a href="https://github.com/TongyiDai/resume-ai-content-review"><img src="./assets/profile-cards/resume-ai-content-review.svg?v=1" width="31%" alt="简历AI含量识别：AI介入线索与内容风险到公平核验追问" /></a>
   </p>
 
   <h3>Feishu / Lark｜工作流</h3>

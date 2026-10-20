@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" role="img" aria-labelledby="title desc">
+  <title id="title">简历AI含量识别</title>
+  <desc id="desc">识别简历中的AI介入线索和内容核验风险，生成公平的结构化追问</desc>
+  <rect x="1" y="1" width="598" height="238" rx="18" fill="#F6EBD8" stroke="#0B0A09" stroke-width="2"/>
+  <text x="34" y="34" fill="#2F6BFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="15" font-weight="700" letter-spacing="0.6">SKILL · HR</text>
+  <text x="34" y="88" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="32" font-weight="700">简历AI含量识别</text>
+  <text x="34" y="118" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Resume AI Content Review</text>
+  <text x="34" y="160" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="19">不猜百分比，只定位真正该核验的内容。</text>
+  <text x="34" y="207" fill="#2F6BFF" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="16" font-weight="600">文本线索 × 内容风险 → 公平追问</text>
+  <text x="552" y="207" text-anchor="end" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15">OPEN ↗</text>
+</svg>
