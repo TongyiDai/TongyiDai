@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" role="img" aria-labelledby="title desc">
-  <title id="title">猎聘简历每日刷新｜Liepin Resume Refresh</title>
-  <desc id="desc">让 AI 按时替候选人刷新猎聘简历，减少每天惦记、手动点击和确认结果的重复维护。</desc>
+  <title id="title">猎聘简历自动刷新｜Liepin Resume Auto Refresh</title>
+  <desc id="desc">AI 按时维护简历活跃度，争取招聘方侧靠前展示机会，省去频繁手工刷新。</desc>
   <rect x="1" y="1" width="598" height="238" rx="18" fill="#F6EBD8" stroke="#0B0A09" stroke-width="2"/>
   <text x="34" y="34" fill="#2F6BFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="15" font-weight="700" letter-spacing="0.6">SKILL · AUTOMATION</text>
-  <text x="34" y="88" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="32" font-weight="700">猎聘简历每日刷新</text>
-  <text x="34" y="118" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Liepin Resume Refresh</text>
-  <text x="34" y="160" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="19">每天刷新简历，交给 AI 定时执行。</text>
-  <text x="34" y="207" fill="#2F6BFF" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="16" font-weight="600">本人登录 → AI 每日刷新 → 确认结果</text>
+  <text x="34" y="88" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="32" font-weight="700">猎聘简历自动刷新</text>
+  <text x="34" y="118" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Liepin Resume Auto Refresh</text>
+  <text x="34" y="160" fill="#0B0A09" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="19">维护简历活跃度，争取 HR 侧靠前展示。</text>
+  <text x="34" y="207" fill="#2F6BFF" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="16" font-weight="600">持续刷新 → 维护活跃 → 争取展示</text>
   <text x="552" y="207" text-anchor="end" fill="#5B5A57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15">OPEN ↗</text>
 </svg>
