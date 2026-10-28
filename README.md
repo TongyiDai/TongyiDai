@@ -26,7 +26,7 @@
 ## 全部项目｜All Projects
 
 <details>
-  <summary><strong>按类别浏览全部项目（31）</strong></summary>
+  <summary><strong>按类别浏览全部项目（32）</strong></summary>
 
   <h3>People &amp; HR｜人与组织</h3>
   <p>把组织与人的判断做成可复核工具。</p>
@@ -70,7 +70,7 @@
     <a href="https://github.com/TongyiDai/dazibao"><img src="./assets/profile-cards/dazibao.svg?v=1" width="31%" alt="大字报：结论到云文档首屏画板" /></a><br /><br />
     <a href="https://github.com/TongyiDai/ai-sanxing"><img src="./assets/profile-cards/ai-sanxing.svg?v=2" width="31%" alt="三省 AI 身：交付前对产出做三轴自审" /></a>
     <a href="https://github.com/TongyiDai/interview-question-radar"><img src="./assets/profile-cards/interview-question-radar.svg?v=1" width="31%" alt="面试问题雷达：公司、岗位和简历到最可能被问的问题" /></a>
-    <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
+    <a href="https://github.com/TongyiDai/liepin-resume-refresh"><img src="./assets/profile-cards/liepin-resume-refresh.svg?v=1" width="31%" alt="猎聘简历每日刷新：AI 定时执行，减少手工刷新和每日惦记" /></a>
   </p>
 
   <h3>Playground｜ForFun</h3>
